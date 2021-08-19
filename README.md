@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Thalison Morais 👋
+
+:man_student: **Studying:** Information Systems;
+
+⚡ **Languages:** Java, Python;
+
+🌱 **Learning:** Spring, React;
 
  <div>
   <a href="https://github.com/thalisonh">
