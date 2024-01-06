@@ -4,23 +4,42 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalison-henrique-morais/)](https://www.linkedin.com/in/thalison-henrique-morais/)
 
 ## About me:
-I'm a Backend Developer :smile:
+Hello! I'm Thalison, a seasoned backend developer with over 5 years of hands-on experience in the technology industry. I specialize in Golang and Java, and my journey in the tech world has been marked by impactful contributions to cutting-edge projects.
 
-I like solving problems and discovering new technologies, currently I work with Python and Java
+Background:
+I hold a degree in Systems Information, which has equipped me with a solid foundation to navigate the dynamic landscape of technology. My journey began in a fintech environment, where I played a key role in developing a digital banking system. The experience honed my skills in creating robust backend systems that are both secure and scalable.
 
-⚡ **Languages:** <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white, Python;"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+Current Endeavors:
+Currently, I am passionately contributing to the success of a healthtech company, leveraging my expertise to build innovative solutions that enhance healthcare experiences. My commitment to staying ahead of technological advancements ensures that the solutions I provide are not only efficient but also future-proof.
 
-⚡ **Frontend:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+Technical Proficiency:
 
-⚡ **Backend:** <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+Golang: I am proficient in developing backend services using Golang, harnessing its speed and efficiency to deliver high-performance applications.
+Java: With a strong foundation in Java, I bring a wealth of experience in creating scalable and reliable backend solutions.
+Key Skills:
 
-⚡ **Database:** <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" /> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+Backend Development
+Golang
+Java
+Microservices Architecture
+API Design and Integration
+Database Management (SQL, NoSQL)
+Security and Compliance
+Why Choose Me:
+
+Proven Track Record: My portfolio includes successful contributions to a fintech's digital banking platform.
+Innovation: I thrive on bringing fresh perspectives to challenges, ensuring that my solutions are not only effective but also forward-thinking.
+Collaborative Approach: I believe in open communication and collaborative problem-solving, making me an ideal team player.
+Let's Connect:
+I am excited about the opportunity to bring my expertise to your project. If you are looking for a seasoned backend developer who can deliver results in Golang and Java, let's connect! I'm ready to contribute to the success of your next venture.
+
+⚡ **Languages:** <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+⚡ **Database:** <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" /> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ⚡ **Version Control:** <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-⚡ **Hosting:** <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
-🌱 **Learning:** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+⚡ **Hosting:** <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 ## What I don't know, give me a few days 😁
 
